@@ -1,0 +1,2 @@
+gcc -pthread pipe-thread.c -o pipe
+./pipe
